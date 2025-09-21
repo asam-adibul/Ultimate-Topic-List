@@ -4,7 +4,7 @@ using namespace std;
 
 #define ll long long
 #define pb push_back
-
+#define int long long
 
 int main() {
 
