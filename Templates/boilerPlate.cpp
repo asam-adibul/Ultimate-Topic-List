@@ -4,7 +4,8 @@ using namespace std;
 
 #define ll long long
 #define pb push_back
-#define int long long
+#define rsortAll(x) (x).rbegin(), (x).rend()
+#define sortAll(x) (x).begin(), (x).end()
 
 int main() {
 
